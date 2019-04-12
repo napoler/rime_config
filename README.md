@@ -1,5 +1,5 @@
 # rime_config
-
+https://github.com/napoler/rime_config
 一套不报错的配置，堪堪能用的词库，和仿系统输入法风格的皮肤。
 
 翻页快捷键是`ctrl + v`。
